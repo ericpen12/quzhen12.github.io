@@ -1,2 +1,3 @@
-* About Me
+* **[home](/)**
+* **[about me](about)**
 
